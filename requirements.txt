@@ -1,0 +1,5 @@
+notebook
+openai>=1.99.9
+python-dotenv
+azure.identity
+rich
